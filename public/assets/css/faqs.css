@@ -43,7 +43,7 @@
 }
 
 .active, .faq-list:hover {
-  opacity: 0.5;
+  opacity: 1;
 }
 
 .faq-list:after {
